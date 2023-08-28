@@ -8,5 +8,5 @@
         einops  0.3.2
 ## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/5.png" width="45" height="45">Installation
 ## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/7.png" width="45" height="45">Dataset Preparation
-## References
+## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/6.png" width="45" height="45">References
 
