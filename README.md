@@ -6,7 +6,7 @@
         pytorch 1.10.1
         torchvision 0.11.2
         einops  0.3.2
-## Installation
+## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/5.png" width="45" height="45">Installation
 ## Dataset Preparation
 ## References
 
