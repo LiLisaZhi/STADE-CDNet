@@ -1,5 +1,5 @@
 # STADE-CDNet: Spatial-temporal attention with difference enhancement-based Network for remote sensing image change detection
-## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/1%20(2).png" width="100" height="100">Requirements
+## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/1%20(2).png" width="50" height="50">Requirements
 
 
         Python 3.8.0
