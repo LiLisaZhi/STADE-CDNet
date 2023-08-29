@@ -25,11 +25,11 @@ Change detection data set with pixel-level binary labels;
                 └─list
 """
 ```
-   `A`:image of pro-image;
-    `B`:image of post-image;
-    `label`:label maps;
-    `list`:contains train.txt, val.txt and test.txt, each file records the image names (XXX.png) in the change detection dataset.
-```
+`A`:image of pro-image;
+`B`:image of post-image;
+`label`:label maps;
+`list`:contains train.txt, val.txt and test.txt, each file records the image names (XXX.png) in the change detection dataset.
+
 ## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/66.png" width="45" height="45">Links to download processed datsets
 - LEVIR-CD:[`click here to download`](https://justchenhao.github.io/LEVIR/)
 - DSIFN-CD: [`click here to download`](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)
