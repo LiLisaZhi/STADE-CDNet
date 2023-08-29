@@ -25,7 +25,7 @@ Change detection data set with pixel-level binary labels;
                 └─list
 """
 ```
-    `A`:image of pro-image;
+   `A`:image of pro-image;
     `B`:image of post-image;
     `label`:label maps;
     `list`:contains train.txt, val.txt and test.txt, each file records the image names (XXX.png) in the change detection dataset.
