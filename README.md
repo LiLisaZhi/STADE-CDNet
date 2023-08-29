@@ -29,3 +29,8 @@ Change detection data set with pixel-level binary labels;
 
 ## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/6.png" width="45" height="45">References
 
+Appreciate the work from the following repositories:
+```
+https://github.com/justchenhao/BIT_CD 
+```
+(Our STADE-CDNet is implemented on the code provided in this repository)
