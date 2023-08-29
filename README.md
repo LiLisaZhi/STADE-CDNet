@@ -11,7 +11,7 @@
 ## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/5.png" width="45" height="45">Installation
 Clone this repo:
 ```python
-git clone https://github.com/LiLisaZhi/STADE-CDNet_V1.git cd STADE-CDNet
+git clone https://github.com/LiLisaZhi/STADE-CDNet.git cd STADE-CDNet
 
  ```
                 
