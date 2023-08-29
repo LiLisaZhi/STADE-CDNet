@@ -38,4 +38,4 @@ https://github.com/justchenhao/BIT_CD
 https://github.com/wgcban/ChangeFormer
 ```
 
-(Our STADE-CDNet is implemented on the code provided in this repository)
+(The code implementation of our STADE-CDNet method references these code repoistories)
