@@ -25,12 +25,15 @@ Change detection data set with pixel-level binary labels;
                 └─list
 """
 ```
-'A':image of pro-image;
-'B':image of post-image;
-'label':label maps;
+    `A`:image of pro-image;
+    `B`:image of post-image;
+    `label`:label maps;
+    `list`:contains train.txt, val.txt and test.txt, each file records the image names (XXX.png) in the change detection dataset.
+## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/7.png" width="45" height="45">Dataset Preparation
 
 
-## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/6.png" width="45" height="45">References
+## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/66.png" width="45" height="45">Links to download processed datsets
+    *LEVIR-CD-256:[click here to download](https://www.dropbox.com/sh/lnjxpflvgjijwoj/AAAgWr3xgOjqtTWPVpbLVcfNa?dl=0)
  
 Appreciate the work from the following repositories:
 ```
