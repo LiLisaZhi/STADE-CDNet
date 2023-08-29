@@ -14,8 +14,10 @@ Clone this repo:
 git clone https://github.com/LiLisaZhi/STADE-CDNet.git cd STADE-CDNet
 
  ```
+
                 
 ## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/16.png" width="45" height="45">Dataset Preparation
+
 
 ```
 """
