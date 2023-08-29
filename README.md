@@ -47,6 +47,6 @@ https://github.com/wgcban/ChangeFormer
 ```
 
 (The code implementation of our STADE-CDNet method references these code repoistories)
-## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/16.png" width="45" height="45"> Contact
-<img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/55.png" width="15" height="15">lisa_zhi@foxmail.com
+## <img src="https://github.com/LiLisaZhi/STADE-CDNe/blob/main/image/16.png" width="45" height="45"> Contact
+<img src="https://github.com/LiLisaZhi/STADE-CDNe/blob/main/image/55.png" width="15" height="15">lisa_zhi@foxmail.com
 
