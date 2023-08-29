@@ -25,6 +25,9 @@ Change detection data set with pixel-level binary labels;
                 └─list
 """
 ```
+'A':image of pro-image;
+'B':image of post-image;
+'label':label maps;
 
 
 ## <img src="https://github.com/Lilith-ZZZ/STADE-CDNet_V1/blob/main/image/6.png" width="45" height="45">References
